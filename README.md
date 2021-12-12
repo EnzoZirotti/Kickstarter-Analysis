@@ -8,5 +8,6 @@ I have perfomed my analysis multipule steps such as using filters to identify th
 ![Screenshot](/Resourses/COUNTIFS_reference.png)
 
 I then had another challenge when I realized somehow I had edited the data set to show incorrect findings. So I then went back redownloaded the original data set and copy pasted into what I had been working on and it ended up working out and showing the data I wanted to see.
+![Screenshot](https://github.com/Zorkrath/Kickstarter-Analysis/blob/main/Resourses/COUNTIFS_new_dataset_outcome.PNG)
 
 ## Results
